@@ -1,8 +1,8 @@
 // Register New Mobile Menu Area
 genesis_register_sidebar( array(
 	'id'          => 'new-mobile-menu',
-	'name'        => __( 'New Mobile Menu', 'two-loves' ),
-	'description' => __( 'This is the spot for the new mobile menu.', 'two-loves' ),
+	'name'        => __( 'New Mobile Menu', 'child-theme' ),
+	'description' => __( 'This is the spot for the new mobile menu.', 'child-theme' ),
 ) );
 
 //* Hook the new mobile menu area
